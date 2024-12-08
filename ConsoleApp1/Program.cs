@@ -14,11 +14,10 @@ class Program
     }
     
     // Method for calculating area of a triangle, accepting parameters for height and base of the triangle,
-    // which then get multiplied by each other and by 0.5. I used 'baseX' as a variable name for the base,
-    // since it didn't seem to accept 'base':
-    public static double TriangleArea(double height, double baseX)
+    // which then get multiplied by each other and by 0.5:
+    public static double TriangleArea(double height, double baseLength)
     {
-        return 0.5 * height * baseX;
+        return 0.5 * height * baseLength;
     }
 }
 
