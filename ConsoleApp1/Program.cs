@@ -27,4 +27,11 @@ class Program
         return length * width;
     }
 
+    // Method for calculating the area of a rectangle, accepting 2 parameters for length and width:
+    public static double SquareArea(double side)
+    {
+        return side * side;
+    }
+    
+    
 }
