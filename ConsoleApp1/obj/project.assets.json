@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/felixlange/Desktop/Code/repos/MethodsCreation/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/Users/felixlange/Desktop/Code/repos/MethodsCreation/ConsoleApp1/ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/felixlange/Desktop/Code/repos/MethodsCreation/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectPath": "/Users/felixlange/Desktop/Code/repos/MethodsCreation/ConsoleApp1/ConsoleApp1.csproj",
       "packagesPath": "/Users/felixlange/.nuget/packages/",
-      "outputPath": "/Users/felixlange/Desktop/Code/repos/MethodsCreation/ConsoleApp1/ConsoleApp1/obj/",
+      "outputPath": "/Users/felixlange/Desktop/Code/repos/MethodsCreation/ConsoleApp1/obj/",
       "projectStyle": "PackageReference",
       "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
